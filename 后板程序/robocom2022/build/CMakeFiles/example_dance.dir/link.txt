@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3   CMakeFiles/example_dance.dir/examples/example_dance.cpp.o  -o example_dance  -L/home/unitree/robocom2022/lib -rdynamic -pthread -lunitree_legged_sdk_amd64 -llcm -Wl,-rpath,/home/unitree/robocom2022/lib 

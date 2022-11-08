@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3   CMakeFiles/walk_test.dir/examples/walk_test.cpp.o  -o walk_test  -L/home/unitree/robocom2022/lib -rdynamic -pthread -lunitree_legged_sdk_amd64 -llcm -Wl,-rpath,/home/unitree/robocom2022/lib 
